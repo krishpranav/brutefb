@@ -13,7 +13,8 @@ A simple bash scripting tool for bruteforcing fb account
 
 # TESTED LINUX SYSTEM:
 - KALI - now rolling edition (2020.3)
-- PARROT - now rolling edition ()
+- PARROT - now rolling edition (4.10)
+- UBUNTU - now rolling edition ()
 
 - TOOL IS CREATED BY KRISNA PRANAV
 
