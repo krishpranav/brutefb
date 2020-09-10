@@ -20,6 +20,8 @@ A simple bash scripting tool for bruteforcing fb account
 - cd brutefb
 - chmod +x *
 - bash install.sh
+- tor
+- Open New Session & Keep 1 st One Running
 
 - USE THIS TOOL FOR LEGAL PURPOSE
 - TOOL IS CREATED BY KRISNA PRANAV
